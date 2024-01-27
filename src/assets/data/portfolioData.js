@@ -5,7 +5,7 @@ import portfolioImg04 from "../images/portfolio-04.jpg";
 import portfolioImg05 from "../images/portfolio-05.jpg";
 import portfolioImg06 from "../images/portfolio-06.jpg";
 import portfolioImg07 from "../images/portfolio-07.jpg";
-import Modal from "../../components/UI/Modal";
+//import Modal from "../../components/UI/Modal";
 
 const portfolios = [
   {
